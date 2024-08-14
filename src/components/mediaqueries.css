@@ -3,7 +3,7 @@
         width: 370px;
         height: 640px;
     }
-    .search-bar{
+    .search-bar input{
         width: 250;
     }
 }
